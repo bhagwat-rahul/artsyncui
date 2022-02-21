@@ -1,0 +1,61 @@
+.frame-34204-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 28px;
+  min-height: 348px;
+  position: absolute;
+  top: 141px;
+  width: 32px;
+}
+
+.dashboard {
+  height: 21px;
+  margin-right: 0;
+  margin-top: 4px;
+  width: 21px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-image: url(/static/img/vector-5@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  margin-right: 0;
+  margin-top: 39px;
+  min-width: 21px;
+}
+
+.properties {
+  height: 21px;
+  width: 21px;
+}
+
+.group-13 {
+  height: 17px;
+  margin-right: 0.69px;
+  margin-top: 45px;
+  width: 14px;
+}
+
+.group-11 {
+  height: 14px;
+  margin-left: 0.65px;
+  margin-top: 49px;
+  width: 13px;
+}
+
+.collections {
+  height: 24px;
+  margin-top: 43px;
+  width: 24px;
+}
+
+.frame-34204-1.frame-34204-2 {
+  left: unset;
+  margin-right: 0.97px;
+  margin-top: 42px;
+  position: relative;
+  top: unset;
+}
+

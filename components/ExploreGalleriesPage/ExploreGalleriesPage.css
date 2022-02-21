@@ -1,0 +1,133 @@
+.explore-galleries-page {
+  align-items: flex-start;
+  display: flex;
+  height: 1080px;
+  width: 1440px;
+}
+
+.explore-galleries-page-1 {
+  height: 1px;
+  width: 1px;
+}
+
+.group-34214 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 78px;
+  margin-top: 105px;
+  min-width: 1282px;
+}
+
+.overlap-group2 {
+  border-radius: 24px;
+  height: 907px;
+  position: relative;
+  width: 1282px;
+}
+
+.mac-book-pro-1 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 24px;
+  box-shadow: -10px 30px 60px #c5cef0;
+  display: flex;
+  height: 907px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1282px;
+}
+
+.overlap-group1 {
+  align-self: flex-end;
+  height: 1020px;
+  margin-bottom: -112.81px;
+  position: relative;
+  width: 91px;
+}
+
+.rectangle-546 {
+  background-color: var(--log-cabin);
+  height: 1020px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.image-9 {
+  height: 30px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 30px;
+}
+
+.rectangle-547 {
+  background-color: var(--zumthor);
+  height: 45px;
+  left: 18px;
+  position: absolute;
+  top: 198px;
+  width: 73px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 71px;
+  margin-top: 61px;
+  min-height: 468px;
+  position: relative;
+  width: 248px;
+}
+
+.explore-galleries {
+  letter-spacing: 0;
+  margin-left: 0.19px;
+  min-height: 45px;
+  width: 248px;
+}
+
+.frame-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 223.58px;
+  margin-left: 102px;
+  min-height: 374px;
+  position: relative;
+  width: 247px;
+}
+
+.frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 225.58px;
+  margin-left: 104px;
+  min-height: 372px;
+  position: relative;
+  width: 247px;
+}
+
+.frame-34204 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 22px;
+  left: 156px;
+  min-width: 182px;
+  position: absolute;
+  top: 155px;
+}
+
+.gallery-name-1 {
+  letter-spacing: 0;
+  min-height: 22px;
+}
+

@@ -1,0 +1,54 @@
+.group-34211 {
+  align-items: center;
+  background-color: var(--white-2);
+  border-radius: 17px;
+  display: flex;
+  height: 34px;
+  left: 28px;
+  min-width: 34px;
+  padding: 0 3px;
+  position: absolute;
+  top: 846px;
+}
+
+.overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--tundora);
+  border-radius: 14px;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  min-width: 28px;
+  padding: 0.8px 0.8px;
+}
+
+.mask-group {
+  height: 26px;
+  width: 26px;
+}
+
+.group-34211.group-34211-1,
+.group-34211.group-34211-2 {
+  left: unset;
+  margin-top: 357px;
+  position: unset;
+  top: unset;
+}
+
+.group-34211.group-34211-3 {
+  left: unset;
+  margin-top: 417px;
+  position: unset;
+  top: unset;
+}
+
+.group-34211.group-34211-3 .overlap-group-2 {
+  padding: 0.8px;
+}
+
+.group-34211.group-34211-4 {
+  left: unset;
+  position: unset;
+  top: unset;
+}
+

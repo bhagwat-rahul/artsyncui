@@ -1,0 +1,248 @@
+.sample-gallery-page {
+  align-items: flex-start;
+  display: flex;
+  height: 1080px;
+  width: 1440px;
+}
+
+.sample-gallery-page-1 {
+  height: 1px;
+  width: 1px;
+}
+
+.group-34214-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 78px;
+  margin-top: 105px;
+  min-width: 1282px;
+}
+
+.mac-book-pro-1-3 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 24px;
+  box-shadow: -10px 30px 60px #c5cef0;
+  display: flex;
+  height: 907px;
+  overflow: hidden;
+  width: 1282px;
+}
+
+.overlap-group2-2 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--log-cabin);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -112.81px;
+  min-height: 1020px;
+  padding: 68.6px 0;
+  position: relative;
+  width: 90px;
+}
+
+.image-9-3 {
+  height: 30px;
+  margin-left: 0.81px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.overlap-group3-2 {
+  align-self: flex-end;
+  height: 288px;
+  margin-top: 42px;
+  position: relative;
+  width: 73px;
+}
+
+.rectangle-547-3 {
+  background-color: var(--zumthor);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 73px;
+}
+
+.frame-34204-9 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 11px;
+  min-height: 288px;
+  padding: 3.6px 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.dashboard-4 {
+  height: 21px;
+  margin-right: 0;
+  width: 21px;
+}
+
+.overlap-group-8 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  margin-right: 0;
+  margin-top: 39px;
+  min-width: 21px;
+}
+
+.properties-4 {
+  height: 21px;
+  width: 21px;
+}
+
+.group-13-4 {
+  height: 17px;
+  margin-right: 0.69px;
+  margin-top: 45px;
+  width: 14px;
+}
+
+.group-11-4 {
+  height: 14px;
+  margin-left: 0.65px;
+  margin-top: 49px;
+  width: 13px;
+}
+
+.flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 17px;
+  margin-top: 33.83px;
+  min-height: 813px;
+  width: 1157px;
+}
+
+.frame-34210 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  justify-content: flex-end;
+  min-width: 239px;
+}
+
+.frame {
+  height: 21px;
+  margin-bottom: 0;
+  width: 21px;
+}
+
+.sample-gallery {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-bottom: 0;
+  margin-left: 18px;
+  min-height: 45px;
+  min-width: 200px;
+}
+
+.overlap-group1-3 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 421px;
+  justify-content: flex-end;
+  margin-left: 3.17px;
+  margin-top: 36px;
+  min-width: 1154px;
+  padding: 20.0px 19px;
+}
+
+.overlap-group4 {
+  align-items: flex-end;
+  align-self: center;
+  background-size: 100% 100%;
+  display: flex;
+  height: 117px;
+  margin-top: 80.0px;
+  min-width: 471px;
+}
+
+.place {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 80px;
+  text-align: center;
+  width: 471px;
+}
+
+.creator-name {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-bottom: 5.66px;
+  margin-left: 169px;
+  min-height: 25px;
+  min-width: 119px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.ellipse-49 {
+  height: 37px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.frame-container-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 18px;
+  min-width: 1157px;
+}
+
+.frame-34206-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 293px;
+  min-width: 276px;
+  padding: 17.8px;
+}
+
+.creator-profile,
+.gallery-xyz {
+  letter-spacing: 0;
+  min-height: 22px;
+}
+
+.frame-34205 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 293px;
+  padding: 17.8px 17.8px;
+  width: 864px;
+}
+
+.other-galleries-by-this-creator {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 604px;
+}
+
+.frame-34206-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 207px;
+  margin-left: 0;
+  margin-top: 27px;
+  min-width: 265px;
+  padding: 17.8px;
+}
+

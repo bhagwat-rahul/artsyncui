@@ -1,0 +1,181 @@
+.add-gallery-page {
+  align-items: flex-start;
+  display: flex;
+  height: 1080px;
+  width: 1440px;
+}
+
+.add-gallery-page-1 {
+  height: 1px;
+  width: 1px;
+}
+
+.group-34214-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 78px;
+  margin-top: 105px;
+  min-width: 1282px;
+}
+
+.mac-book-pro-1-1 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 24px;
+  box-shadow: -10px 30px 60px #c5cef0;
+  display: flex;
+  height: 907px;
+  overflow: hidden;
+  width: 1282px;
+}
+
+.overlap-group1-1 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--log-cabin);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -112.81px;
+  min-height: 1020px;
+  padding: 68.6px 0;
+  position: relative;
+  width: 90px;
+}
+
+.image-9-1 {
+  height: 30px;
+  margin-left: 0.81px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.overlap-group3 {
+  align-self: flex-end;
+  height: 348px;
+  margin-right: -0.32px;
+  margin-top: 42px;
+  position: relative;
+  width: 73px;
+}
+
+.rectangle-547-1 {
+  background-color: var(--zumthor);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 191px;
+  width: 73px;
+}
+
+.frame-34204-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 11px;
+  min-height: 348px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.dashboard-2 {
+  height: 21px;
+  margin-right: 0;
+  margin-top: 4px;
+  width: 21px;
+}
+
+.collections-5 {
+  height: 24px;
+  margin-top: 43px;
+  width: 24px;
+}
+
+.overlap-group-5 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  margin-right: 0;
+  margin-top: 43px;
+  min-width: 21px;
+}
+
+.properties-2 {
+  height: 21px;
+  width: 21px;
+}
+
+.frame-34145-3 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 28px;
+  margin-top: 39px;
+  min-width: 28px;
+  padding: 5.3px 7.1px;
+}
+
+.group-13-2 {
+  height: 17px;
+  width: 14px;
+}
+
+.group-11-2 {
+  height: 14px;
+  margin-left: 0.65px;
+  margin-top: 43px;
+  width: 13px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 118.19px;
+  margin-left: 72px;
+  min-height: 667px;
+  width: 874px;
+}
+
+.new-gallery {
+  letter-spacing: 0;
+  min-height: 45px;
+  width: 184px;
+}
+
+.upload-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  min-height: 517px;
+  padding: 84px 282px;
+  width: 757px;
+}
+
+.akar-iconscloud-upload {
+  align-self: center;
+  height: 120px;
+  margin-left: 1.0px;
+  margin-top: 106px;
+  width: 120px;
+}
+
+.upload-art-obj-jpeg-etc {
+  letter-spacing: 0;
+  margin-top: 59px;
+  min-height: 64px;
+  min-width: 167px;
+  text-align: center;
+}
+
+.span1 {
+  color: var(--black);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+}
+

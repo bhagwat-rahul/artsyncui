@@ -1,0 +1,176 @@
+.loginsignup-page {
+  align-items: flex-start;
+  display: flex;
+  height: 1080px;
+  width: 1440px;
+}
+
+.login-signup-page {
+  height: 1px;
+  width: 1px;
+}
+
+.group-34214-4 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 78px;
+  margin-top: 105px;
+  min-width: 1282px;
+}
+
+.mac-book-pro-1-4 {
+  align-items: flex-end;
+  background-color: var(--zumthor);
+  border-radius: 24px;
+  box-shadow: -10px 30px 60px #c5cef0;
+  display: flex;
+  flex-direction: column;
+  height: 907px;
+  overflow: hidden;
+  padding: 61px 246px;
+  width: 1282px;
+}
+
+.artsync {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 34.0px;
+  min-height: 45px;
+  text-align: center;
+  width: 184px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  height: 517px;
+  margin-top: 105px;
+  min-width: 757px;
+  padding: 25.0px 97px;
+}
+
+.flex-col-4 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 9.0px;
+  min-height: 232px;
+  width: 149px;
+}
+
+.email {
+  letter-spacing: 0;
+  margin-right: 10px;
+  min-height: 25px;
+  min-width: 42px;
+  text-align: center;
+}
+
+.password {
+  letter-spacing: 0;
+  margin-right: 10px;
+  margin-top: 43px;
+  min-height: 25px;
+  min-width: 74px;
+  text-align: center;
+}
+
+.re-enter-password {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-top: 35px;
+  min-height: 25px;
+  min-width: 139px;
+  text-align: center;
+}
+
+.ellipse-50 {
+  border-radius: 10px;
+  height: 20px;
+  margin-top: 59px;
+  width: 20px;
+}
+
+.flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+  min-height: 412px;
+  width: 258px;
+}
+
+.overlap-group1-4 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 0 12px;
+}
+
+.login {
+  letter-spacing: 0;
+  margin-top: 4.0px;
+  min-height: 39px;
+  text-align: center;
+  width: 83px;
+}
+
+.line-1 {
+  height: 57px;
+  margin-left: 18px;
+  margin-top: -1.0px;
+  width: 1px;
+}
+
+.signup {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  margin-left: 6px;
+  margin-top: 3.0px;
+  min-height: 39px;
+  text-align: center;
+  width: 95px;
+}
+
+.rectangle-555 {
+  background-color: var(--white);
+  height: 46px;
+  margin-left: 9.0px;
+  margin-top: 46px;
+  width: 249px;
+}
+
+.rectangle-55 {
+  background-color: var(--white);
+  height: 46px;
+  margin-left: 9.0px;
+  margin-top: 18px;
+  width: 249px;
+}
+
+.accept-privacy-polic {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 9px;
+  margin-top: 46px;
+  min-height: 16px;
+  text-align: center;
+  width: 220px;
+}
+
+.signup-1 {
+  letter-spacing: 0;
+  margin-right: 29.0px;
+  margin-top: 34px;
+  min-height: 39px;
+  text-align: center;
+  width: 95px;
+}
+
